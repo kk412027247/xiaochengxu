@@ -10,4 +10,6 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
+  <text>当前时间:{{time}}</text>
+  <text>{{a === 10 ? "a===10" : "a!==10"}}</text>
 </view>
