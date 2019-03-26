@@ -1,5 +1,11 @@
 {
   "pages":[
+    "pages/xml2/xml2",
+    "page/xml2/footer",
+    "page/xml2/header", 
+    "pages/xml2/a",
+    "pages/xml2/b",
+    "pages/xml2/item",
     "pages/xml/xml",
     "pages/index/index",
     "pages/logs/logs"
