@@ -1,5 +1,6 @@
 {
   "pages":[
+    "pages/scroll/scroll",
     "pages/xml2/xml2",
     "page/xml2/footer",
     "page/xml2/header", 

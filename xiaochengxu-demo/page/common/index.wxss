@@ -1,0 +1,15 @@
+.index-hd{
+  text-align: center;
+  padding:0 30rpx 40rpx;
+}
+
+.index-logo{
+  width: 86rpx;
+  height:86rpx;
+}
+
+.index-desc {
+  margin-top:20rpx;
+  color:#888888;
+  font-size:28rpx;
+}

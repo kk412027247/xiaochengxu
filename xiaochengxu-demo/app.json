@@ -1,0 +1,36 @@
+{
+  "pages":[
+    "page/component/index",
+    "page/API/index",
+    "page/cloud/index",
+    "page/component/pages/doc-web-view/doc-web-view"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "演示",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":{
+    "color":"#7A7E83",
+    "selectedColor":"#3CC51F",
+    "borderStyle":"black",
+    "backgroundColor":"#ffffff",
+    "list":[{
+        "pagePath":"page/component/index",
+        "text":"组件",
+        "iconPath":"images/icon_component.png",
+        "selectedIconPath":"images/icon_component_HL.png"
+      },{
+        "pagePath":"page/API/index",
+        "text":"接口",
+        "iconPath":"images/icon_API.png",
+        "selectedIconPath":"images/icon_API_HL.png"
+      },{
+        "pagePath":"page/cloud/index",
+        "text":"云开发",
+        "iconPath":"images/icon_cloud.png",
+        "selectedIconPath":"images/icon_cloud_HL.png"
+      }]
+  }
+}
