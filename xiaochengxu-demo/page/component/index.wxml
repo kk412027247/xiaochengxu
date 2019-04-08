@@ -1,4 +1,4 @@
-<view>
+<view class='index'>
   <view class='index-hd'>
     <image class='index-logo' src='resources/kind/logo.png'></image>
     <view class='index-desc'>

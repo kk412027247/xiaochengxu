@@ -7,7 +7,8 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#f8f8f8",
+    "backgroundColor": "#f8f8f8",
     "navigationBarTitleText": "演示",
     "navigationBarTextStyle":"black"
   },

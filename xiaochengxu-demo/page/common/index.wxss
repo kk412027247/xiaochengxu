@@ -1,7 +1,12 @@
-.index-hd{
+.index-hd {
+  padding: 80rpx;
   text-align: center;
+}
+
+.index-bd{
   padding:0 30rpx 40rpx;
 }
+
 
 .index-logo{
   width: 86rpx;
@@ -12,4 +17,5 @@
   margin-top:20rpx;
   color:#888888;
   font-size:28rpx;
+
 }
